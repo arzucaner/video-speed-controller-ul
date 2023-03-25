@@ -1,2 +1,3 @@
 # video-speed-controller-ul
-This is JavaScript30 Challenge. In this project, the playback speed of a video player is exercised.
+This project is part of the 30-Day Vanilla JS Coding Contest created by Wes Bos, also known as the JavaScript30 Challenge. The goal of this project is to exercise the playback speed of a video player using JavaScript. By adjusting the speed of the video, users can watch videos in slow motion or at a faster pace. The project is built using pure JavaScript, HTML, and CSS without the use of any libraries or frameworks. With its clean code and simple design, this project is a great example of the power and versatility of pure JavaScript.
+![video](https://user-images.githubusercontent.com/108270415/227741145-47b1ab03-7b55-4e57-b149-f9aaa81f3cfc.png)
